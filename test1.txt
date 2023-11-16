@@ -1,4 +1,8 @@
 abcd
 123
 add func1
+<<<<<<< HEAD
 code conclick2
+=======
+code conclick1
+>>>>>>> ac18013c67f8873d04804935f029cea3b65ae91a
